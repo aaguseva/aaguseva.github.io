@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://lerma.obspm.fr/spip.php?rubrique2&lang=en'>LERMA, l'Observatoire de Paris</a>, 77 Av. Denfert-Rochereau, Paris, France
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral research fellow at the Paris Observatory, working in field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my PhD  in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In 2018-2020 I was working on the properties of fundamental turbulence in wall-bounded flow, in particular, forcing at small scales at Universidad Politécnica de Madrid (UPM).
+
+Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK.
+
+

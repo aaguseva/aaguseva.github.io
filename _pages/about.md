@@ -22,4 +22,4 @@ In 2018-2020 I worked on the properties of fundamental turbulence in wall-bounde
 
 Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK.
 
-
+I'm part of the working group <a href='https://dynamos.obspm.fr/'>DYNAMOS</a>,for Fluid Dynamics and Stellar Modelling

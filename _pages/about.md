@@ -18,7 +18,7 @@ I am a postdoctoral research fellow at the Paris Observatory, working in the fie
 
 I completed my PhD  in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 
-In 2018-2020 I was working on the properties of fundamental turbulence in wall-bounded flow, in particular, forcing at small scales at Universidad Politécnica de Madrid (UPM).
+In 2018-2020 I worked on the properties of fundamental turbulence in wall-bounded flow, in particular, the influence of forcing on large scales at Universidad Politécnica de Madrid (UPM).
 
 Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK.
 

@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral research fellow at the Paris Observatory, working in field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
+I am a postdoctoral research fellow at the Paris Observatory, working in the field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
 
 I completed my PhD  in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 

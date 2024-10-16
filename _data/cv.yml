@@ -15,33 +15,19 @@
       institution: University of Bremen, Germany
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+  
     - title: Master degree in Thermophysics and molecular physics
       institution: Moscow Power Engineering Institude, Moscow, Russia
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Fellow
       institution: The Paris Observatory
-      year: 1933 - 1955
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
       
 - title: Honors and Awards
   type: time_table

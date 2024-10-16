@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Large-scale stellar dynamos
-description: Mechanisms of large-scale magnetic field generation and its role
+title: DynMode
+description: Reduced-order modelling of dynamo flows
 img: 
 importance: 1
 category: finalized

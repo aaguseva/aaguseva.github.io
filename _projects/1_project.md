@@ -1,10 +1,10 @@
 ---
 layout: page
-title: large-scale stellar dynamos
+title: Large-scale stellar dynamos
 description: Mechanisms of large-scale magnetic field generation and its role
-img: assets/img/12.jpg
+img: 
 importance: 1
-category: work
+category: current
 related_publications: true
 ---
 

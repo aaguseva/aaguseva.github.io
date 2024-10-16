@@ -42,14 +42,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Fluid mechanics and dynamical systems
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dynamics of large-scale structures
+    - title: Stellar physics
       items:
-        - Description 1.
-        - Description 2.
+        - Magnetic fields, transport and evolution
 
 - title: Other Interests
   type: list

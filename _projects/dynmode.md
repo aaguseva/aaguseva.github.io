@@ -2,7 +2,7 @@
 layout: page
 title: DynMode
 description: Reduced-order modelling of dynamo flows
-img: 
+img: assets/img/12.jpg
 importance: 1
 category: finalized
 related_publications: true

@@ -3,7 +3,7 @@ layout: post
 title: Faraday surface waves
 date: 2024-10-10 14:26:00
 description: Nonlinear interaction leads to pattern formation
-tags: formatting videos
+tags:  videos
 categories: sample-posts
 ---
 In this video, I describe a simple fluid dynamics experiment that highlights the essence of nonlinear interaction of waves in a flow above a vibrating plane. The diversity of observed flow patters is a great visual representation of this nonlinearity.

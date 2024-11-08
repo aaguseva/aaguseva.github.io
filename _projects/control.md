@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Interaction of forcing and turbulence
+title: Forcing and control of turbulence
 description: 
 img: assets/img/channel.png
-importance: 1
+importance: 2
 category: finalized
 related_publications: true
 references: guseva2022linear

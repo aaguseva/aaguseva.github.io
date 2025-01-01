@@ -15,5 +15,8 @@ nav_order: 6
     - 2023; Numerical Analysis course at the School of Mathematics, University of Leeds (UK)
 
 ## Student supervision
-    - 2023 - ongoing; Elsa Louaas, master-level project "Modelling of convective-radiative interfaces in stars" 
-    - 2023 - ongoing; Virgin Durepaire, co-supervision of PhD project "Magnetic instabilities in radiative stellar interiors"
+    - 2023 - ongoing; E. Louaas, master-level project "Modelling of convective-radiative interfaces in stars" 
+    - 2023 - ongoing; V. Durepaire, co-supervision of PhD project "Magnetic instabilities in radiative stellar interiors"
+    - 2023; J. Hall, undergraduate project "DMD for identification of topological waves in plasma"
+    - 2019; J. Ibrahim, expert supervision "Selective opposition-like control of large-scale structures in wall-bounded turbulence"
+    - 2014; M. Safari Shalmani, master-level project "Parameter bounds of magnetorotational instability"

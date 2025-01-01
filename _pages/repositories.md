@@ -8,16 +8,6 @@ nav_order: 4
 ---
 
 
-### GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-
-
-
 ## **If you would like to use any of this codes, please contact me via anna.guseva[at]obspm.fr**
 
 ### Magnetohydrodynamic Taylor-Couette flow code

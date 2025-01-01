@@ -25,9 +25,17 @@
   type: time_table
   contents:
     - title: Postdoctoral Fellow
-      institution: The Paris Observatory
+      institution: The Paris Observatory, France
       year: 2023 - present
-      description:
+      description: Numerical and data-driven modelling of stellar magnetohydrodynamics
+    - title: Marie Curie Research Fellow
+      institution: School of Mathematics, University of Leeds, UK
+      year: 2020 - 2023
+      description: Data-driven modelling of nonlinear astrophysical dynamos, in collaboration with Prof. S. Tobias
+    - title: Postdoctoral Researcher
+      institution: School of Aeronautics and Space Engineering, Polytechnic University of Madrid, Spain 
+      year: 2018 - 2020
+      description: Scale interaction and control of wall-bounded turbulent flows, in collaboration with Prof. J. Jimenez
       
 - title: Honors and Awards
   type: time_table
@@ -35,7 +43,7 @@
     - year: 2020
       items:
         - Marie Curie Research Fellowship
-    - year: 2024
+    - year: 2023
       items:
         - PSL Fellowship of the Paris Observatory
 

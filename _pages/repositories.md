@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## If you would like to use any of this codes, please contact me via email
+## **If you would like to use any of this codes, please contact me via anna.guseva[at]obspm.fr**
 
 ### Magnetohydrodynamic Taylor-Couette flow code
 

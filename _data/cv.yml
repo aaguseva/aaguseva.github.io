@@ -57,12 +57,18 @@
   contents:
     - title: Fluid mechanics and dynamical systems
       items:
-        - Dynamics of large-scale structures
+        - Turbulence
+        - Instabilities
+        - Nonlinear processes
+        - Interaction of scales in complex flows
+        - Reduced-order modelling of dynamical systems
     - title: Stellar physics
       items:
-        - Magnetic fields, transport and evolution
+        - Magnetic fields and dynamo theory
+        - Transport of species and momentum in stars
+        - Influence of magnetism and shear flow dynamics on stellar evolution
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hiking and philosophy.
+    - <u>Hobbies:</u> Hiking, photography, and philosophy. Classic and electronic jazz and world music.

@@ -16,9 +16,14 @@
       year: 2018
       description:
   
-    - title: Master degree in Thermophysics and molecular physics
+    - title: M. Sc. in Thermophysics and molecular physics
       institution: Moscow Power Engineering Institude, Moscow, Russia
       year: 2014
+      description:
+
+    - title: B. Sc. in Thermophysics
+      institution: Moscow Power Engineering Institude, Moscow, Russia
+      year: 2012
       description:
 
 - title: Experience

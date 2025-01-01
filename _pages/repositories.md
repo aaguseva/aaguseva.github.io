@@ -7,8 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-
-## **If you would like to use any of this codes, please contact me via anna.guseva[at]obspm.fr**
+## **If you would like to use these codes, please contact me via anna.guseva at obspm.fr**
 
 ### Magnetohydrodynamic Taylor-Couette flow code
 
@@ -18,7 +17,4 @@ MPI-parallelized code solving coupled Navier-Stokes and induction equations for 
 ### Channel flow code with control
 
 MPI-parallelized high-performance code for channel flow in Fortran 90, building upon an older formulation by Flores and Jimenez (2006), with the opposition control strategy. The code solves coupled equations for vorticity and wall-normal velocity using pseudo-spectral direct numerical simulations. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and velocity at a given location above it. See {% cite guseva2022opposition} for more details.
-
-
-
 

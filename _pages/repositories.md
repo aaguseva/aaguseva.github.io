@@ -14,8 +14,7 @@ MPI-parallellized code solving coupled Navier-Stokes and induction equations for
 
 ## Channel flow code with control
 
-MPI-parallellized code solving coupled Navier-Stokes and induction equations for a flow between two rotating cylinders. The code has spectral discretization in the axial and azimuthal directions, and the radial coordinate is discretized using finite differences. The nonlinear terms are evaluated in the physical space and are de-aliased using the 3/2 rule; more details of the numerical method can be found in {% cite guseva2015transition %}. 
-
+A pseudospectral code for channel flow in Fortran 90, building upon an older formulation by Flores and Jimenez (2006), with the opposition control strategy. The code solves coupled equations for vorticity and wall-normal velocity using pseudo-spectral direct numerical simulations. 
 
 {% if site.data.repositories.github_repos %}
 

@@ -18,11 +18,14 @@ MPI-parallelized code solving coupled Navier-Stokes and induction equations for 
 
 MPI-parallelized high-performance code for channel flow in Fortran 90, building upon an older formulation by Flores and Jimenez (2006), with the opposition control strategy. The code solves coupled equations for vorticity and wall-normal velocity using pseudo-spectral direct numerical simulations. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and velocity at a given location above it. See {% cite guseva2022linear %} for more details.
 
-### GitHub users
+{% if site.data.repositories.github_repos %}
+
+### GitHub Repositories
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
+{% endif %}
 

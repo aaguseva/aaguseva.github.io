@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /codes/
 title: codes
 description: 
 nav: true

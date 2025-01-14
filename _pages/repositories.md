@@ -18,4 +18,6 @@ MPI-parallelized code solving coupled Navier-Stokes and induction equations for 
 
 MPI-parallelized high-performance code for channel flow in Fortran 90, building upon an older formulation by Flores and Jimenez (2006), with the opposition control strategy. The code solves coupled equations for vorticity and wall-normal velocity using pseudo-spectral direct numerical simulations, with Fourier-Chebyshev spatial discretization, Runge-Kutta timestepping scheme and constant mass flux. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and velocity at a given location above it. See {% cite guseva2022linear %} for more details. The code is available under [here](https://github.com/aaguseva/ChannelFlowControl).
 
+### [Linear stability of turbulent channel flow](https://github.com/aaguseva/TurbChannelLinstab)
 
+A set of subroutines to determine linear stability of a turbulent mean velocity profile in a channel flow, with the opposition control strategy. The code solves an eigenvalue problem for coupled equations for vorticity and wall-normal velocity using pseudo-spectral Fourier-Chebyshev spatial discretization. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and above it. See {% cite guseva2022linear %}. 

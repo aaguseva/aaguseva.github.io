@@ -20,4 +20,4 @@ MPI-parallelized high-performance code for channel flow in Fortran 90, building 
 
 ### [Linear stability of turbulent channel flow](https://github.com/aaguseva/TurbChannelLinstab)
 
-A set of subroutines to determine linear stability of a turbulent mean velocity profile in a channel flow, with the opposition control strategy. The code solves an eigenvalue problem for coupled equations for vorticity and wall-normal velocity using pseudo-spectral Fourier-Chebyshev spatial discretization. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and above it. See {% cite guseva2022linear %}. 
+A set of subroutines to determine linear stability of a turbulent mean velocity profile in a channel flow, with the opposition control strategy. The code solves an eigenvalue problem for coupled equations for vorticity and wall-normal velocity using pseudo-spectral Fourier-Chebyshev spatial discretization. The opposition control strategy is implemented as a proportionality between the boundary conditions on velocity at the wall and above it. See {% cite guseva2022linear %} and the references therein. 

@@ -29,9 +29,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant professor
+      institution: Polytecnic University of Catalonia, Barcelona, Spain
+      year: 2025 - ongoing
     - title: Postdoctoral Fellow
       institution: The Paris Observatory, France
-      year: 2023 - present
+      year: 2023 - 2025
       description: Numerical and data-driven modelling of stellar magnetohydrodynamics
     - title: Marie Curie Research Fellow
       institution: School of Mathematics, University of Leeds, UK

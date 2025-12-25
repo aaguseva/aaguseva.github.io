@@ -9,13 +9,14 @@ nav_order: 6
 
 ## Graduate courses
 
-    - 2022 - ongoing; Gas Dynamics and Magnetohydrodynamic instabilities for 
+    - 2022 - 2025; Gas Dynamics and Magnetohydrodynamic instabilities for 
     Master in astrophysics of Paris Sciences et Lettres University (France)
     - 2014 - 2015; Numerical methods for fluid mechanics, 
     Friedrich-Alexander University Erlangen-Nuremberg
 
 ## Undergraduate courses
 
+    - 2025 - ongoing; Thermodynamics and heat transfer (lectures); Barcelona East School of Engineering (EEBE)
     - 2023; Numerical Analysis course at the School of Mathematics, University of Leeds (UK)
 
 ## Student supervision

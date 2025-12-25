@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lerma.obspm.fr/spip.php?rubrique2&lang=en'>EEBE, Av. Eduard Maristany, 16, Barcelona, Spain
+subtitle: <a href='https://eebe.upc.edu/en'>EEBE, Av. Eduard Maristany, 16, Barcelona, Spain
 
 profile:
   align: left

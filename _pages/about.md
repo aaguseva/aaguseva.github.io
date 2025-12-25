@@ -19,7 +19,7 @@ I completed my PhD  in 2018 at the Center of Applied Space Technology and Microg
 
 In 2018-2020 I worked on the properties of fundamental turbulence in wall-bounded flow, in particular, the influence of forcing on large scales at Universidad Politécnica de Madrid (UPM).
 
-Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK.
+Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK (2020-2023).
 
 In 2023-2025 I was a research fellow at the Paris Observatory, working in the field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
 

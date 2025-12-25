@@ -13,7 +13,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor at the Department of Fluid Mechanics, Polytecnic University of Catalonia (BarcelonaTech).
+I am an Assistant Professor at the Department of Fluid Mechanics, Polytecnic University of Catalonia (BarcelonaTech), working in the field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
 
 I completed my PhD  in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 
@@ -21,6 +21,4 @@ In 2018-2020 I worked on the properties of fundamental turbulence in wall-bounde
 
 Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK (2020-2023).
 
-In 2023-2025 I was a research fellow at the Paris Observatory, working in the field of astrophysical fluid dynamics at the intersection of fluid dynamics, mathematics, dynamical systems theory, and data-driven analysis.
-
-I'm part of the working group <a href='https://dynamos.obspm.fr/'>DYNAMOS</a> of the Paris Observatory, for Fluid Dynamics and Stellar Modelling.
+In 2023-2025 I was a research fellow at the Paris Observatory; I'm part of the working group <a href='https://dynamos.obspm.fr/'>DYNAMOS</a> of the Paris Observatory, for Fluid Dynamics and Stellar Modelling.

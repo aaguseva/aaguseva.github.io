@@ -13,7 +13,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor at the Department of Physics, Polytechnic University of Catalonia (BarcelonaTech), working in the field of stellar physics, astrophysical fluid dynamics, applied mathematics, dynamical systems theory, and data-driven analysis. I am also affiliated with Catalan Institute of Space Sciences (IEEC).
+I am an Assistant Professor at the Department of Physics, Polytechnic University of Catalonia (BarcelonaTech), working in the field of stellar physics, astrophysical fluid dynamics, applied mathematics, dynamical systems theory, and data-driven analysis. Currently, I am interested in influence of magnetism, dynamos, and waves on stellar evolution, and reduced-order modelling of these processes. I am also affiliated with Catalan Institute of Space Sciences (IEEC).
 
 I completed my PhD in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 

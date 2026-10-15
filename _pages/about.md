@@ -17,7 +17,7 @@ I am an Assistant Professor at the Department of Physics, Polytechnic University
 
 I completed my PhD in 2018 at the Center of Applied Space Technology and Microgravity (ZARM, Bremen). It was devoted to understanding of angular momentum transport and dynamo action in accretion disks.
 
-In 2018-2020 I worked on the properties of fundamental turbulence in wall-bounded flow, in particular, the influence of forcing on large scales at Universidad Politécnica de Madrid (UPM).
+In 2018-2020 I worked on the properties of fundamental turbulence, in particular, the influence of forcing on large scales on fully turbulent flows at Universidad Politécnica de Madrid (UPM).
 
 Upon that, I was a Marie-Curie Research Fellow at the University of Leeds, UK (2020-2023).
 

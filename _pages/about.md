@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://eebe.upc.edu/en'>EEBE, Av. Eduard Maristany, 16, Barcelona, Spain
+subtitle: <a href='https://eetac.upc.edu/en?set_language=en'>C. Esteve Terradas, 7, Castelldefels, Spain
 
 profile:
   align: left

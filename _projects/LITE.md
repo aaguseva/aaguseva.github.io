@@ -10,7 +10,7 @@ references: guseva2025magnetic, pinccon2024coriolis
 ---
 
 
-Shear flows play a crucial role in stellar physics, triggering instabilities, turbulence and mixing across a wealth of flow structures. They determine the
+Magnetic fields play a crucial role in stellar physics, triggering instabilities, turbulence and mixing across a wealth of flow structures. They determine the
 stellar properties that are observed yet often lack explanation: rotation rates, stellar magnetic topology, activity and chemical composition. One of the
 main challenges in stellar physics is thus to provide mathematical models for nonlinear interactions of the flow structures. Due to flow complexity, its
 numerical simulations result in terabytes of data, and are not feasible in astrophysically relevant parameters. This project proposes a novel data-driven

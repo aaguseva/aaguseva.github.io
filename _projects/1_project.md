@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Large-scale stellar dynamos
+title: Large-scale stellar dynamos of pre-main-sequence stars
 description: Mechanisms of large-scale magnetic field generation and its role
 img: assets/img/filtBr_Ra32_r0.90_thickz6_.png
 importance: 1

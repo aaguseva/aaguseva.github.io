@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Astrophysical Fluid Dynamics Workshop
-description: An event to bring fluid dynamicists together
-img: assets/img/filtBr_Ra32_r0.90_thickz6_.png
+title: PLATO Stellar Physics Workshop
+description: Presenting reduced-order stellar dynamo models and CESAM2k20 integration.
+img: assets/img/12.jpg
 importance: 1
-category: current
-related_publications: true
+category: upcoming
 ---
+
+
 
 
 Speakers:

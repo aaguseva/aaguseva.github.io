@@ -29,3 +29,5 @@ We are currently searching for a postdoctoral researcher to develop simplified s
 
 ### Collaborators
 * **João Marques** (one of the main developers of CESAM2k20), Institut d'Astrophysique Spatiale (IAS), France
+
+### Contact: guseva at ieec.cat

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linking dynamo topology and stellar evolution
-description: Agencia Estatal de Investigación (AEI) Europa Excellencia project
+description: Europa Excellencia project EUR2026-179108, Agencia Estatal de Investigación (AEI) 
 img: assets/img/cycle_model.png
 importance: 1
 category: current

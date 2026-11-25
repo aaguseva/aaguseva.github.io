@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Astrophysical Fluid Dynamics Workshop
-description: 12–13 May | EEBE, UPC, Barcelona
+description: 12–13 May 2026 | EEBE, UPC, Barcelona
 img: assets/img/AstroFluids_BCN_image.png
 importance: 1
 category: past
 ---
 
-**Dates:** 12–13 May
+**Dates:** 12–13 May 2026
 
 **Venue:** Sala Polivalent, Edifici I – 16 Avinguda Maristany, 08019 Barcelona, EEBE, UPC
 

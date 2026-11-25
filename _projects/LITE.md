@@ -5,7 +5,7 @@ description: Agencia Estatal de Investigación (AEI) Europa Excellencia project
 img: assets/img/cycle_model.png
 importance: 1
 category: current
-related_publications: true
+related_publications: false
 references: guseva2026data
 ---
 
@@ -13,11 +13,7 @@ Magnetic fields play a fundamental role in the life and evolution of stars, driv
 
 This work is part of the R&D&I project EUR2026-179108, funded by MICIU/AEI/10.13039/501100011033.
 
-
-
-# Job Opportunities
-
-## Postdoctoral Researcher in Stellar Convective Dynamo Modelling
+## Job Opportunity: Postdoc in stellar dynamo modelling
 
 We are currently searching for a postdoctoral researcher to develop simplified stellar convective dynamo models with variable topologies and dynamics. The candidate will perform numerical simulations of these models and integrate them with the stellar evolution code [CESAM2k20](https://www.ias.universite-paris-saclay.fr/cesam2k20/).
 

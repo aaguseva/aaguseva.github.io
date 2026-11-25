@@ -13,3 +13,23 @@ Magnetic fields play a fundamental role in the life and evolution of stars, driv
 
 This work is part of the R&D&I project EUR2026-179108, funded by MICIU/AEI/10.13039/501100011033.
 
+
+
+# Job Opportunities
+
+## Postdoctoral Researcher in Stellar Convective Dynamo Modelling
+
+We are currently searching for a postdoctoral researcher to develop simplified stellar convective dynamo models with variable topologies and dynamics. The candidate will perform numerical simulations of these models and integrate them with the stellar evolution code [CESAM2k20](https://www.ias.universite-paris-saclay.fr/cesam2k20/).
+
+### Candidate Profile & Requirements
+
+**Essential Qualifications:**
+* Solid knowledge of Partial Differential Equations (PDEs), magnetohydrodynamics (MHD), and bifurcation theory.
+* Basic programming skills in **Python** and **Fortran**.
+* Familiarity with spectral numerical methods.
+
+**Desirable Experience:**
+* Interest or background in astrophysical fluid dynamics, stellar physics, or data science.
+
+### Collaborators
+* **João Marques** (one of the main developers of CESAM2k20), Institut d'Astrophysique Spatiale (IAS), France

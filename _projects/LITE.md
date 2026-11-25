@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Linking dynamo topology and stellar evolution
-description: Linking dynamo topology and stellar evolution
+description: Agencia Estatal de Investigación (AEI) Europa Excellencia project
 img: assets/img/cycle_model.png
 importance: 1
 category: current
 related_publications: true
-references: guseva2025magnetic, pinccon2024coriolis
+references: guseva2026data
 ---
 
 

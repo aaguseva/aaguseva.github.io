@@ -2,7 +2,7 @@
 layout: page
 title: Linking dynamo topology and stellar evolution
 description: Linking dynamo topology and stellar evolution
-img: assets/img/filtBr_Ra32_r0.90_thickz6_.png
+img: assets/img/cycle_model.png
 importance: 1
 category: current
 related_publications: true

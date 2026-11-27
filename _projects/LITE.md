@@ -15,7 +15,7 @@ This work is part of the R&D&I project EUR2026-179108, funded by MICIU/AEI/10.13
 
 ## Job Opportunity: Postdoc in stellar dynamo modelling
 
-We are currently searching for a postdoctoral researcher to develop simplified stellar convective dynamo models with variable topologies and dynamics. The candidate will perform numerical simulations of these models and integrate them with the stellar evolution code [CESAM2k20](https://www.ias.universite-paris-saclay.fr/cesam2k20/). The initial duration of the contract will be about 1,5 years.
+We are currently searching for a postdoctoral researcher to develop simplified stellar convective dynamo models with variable topologies and dynamics. The candidate will perform numerical simulations of these models and integrate them with the stellar evolution code [CESAM2k20](https://www.ias.universite-paris-saclay.fr/cesam2k20/). The duration of the contract will be about 1,5 years.
 
 ### Candidate Profile & Requirements
 
